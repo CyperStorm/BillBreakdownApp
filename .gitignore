@@ -1,0 +1,19 @@
+# Ignore Android Studio project files
+.idea/
+*.iml
+/build/
+/captures/
+
+# Ignore Gradle build files
+/.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+
+# Ignore generated APKs
+/app/build/
+*.apk
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
